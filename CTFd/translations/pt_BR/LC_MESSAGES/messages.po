@@ -857,3 +857,27 @@ msgid_plural "teams"
 msgstr[0] "equipe"
 msgstr[1] "equipes"
 
+#: CTFd/themes/pixo/templates/challenge.html
+msgid "Solution"
+msgstr "Resolução"
+
+#: CTFd/themes/pixo/templates/challenge.html
+msgid "Submissions"
+msgstr "Submissões"
+
+#: CTFd/themes/pixo/templates/challenge.html
+msgid "Submission"
+msgstr "Submissão"
+
+#: CTFd/themes/pixo/templates/challenge.html
+msgid "Rate this challenge:"
+msgstr "Avalie este desafio:"
+
+#: CTFd/themes/pixo/templates/challenge.html
+msgid "Write a review (optional)"
+msgstr "Escreva uma avaliação (opcional)"
+
+#: CTFd/themes/pixo/templates/challenge.html
+msgid "Thank you for your rating!"
+msgstr "Obrigado pela sua avaliação!"
+
