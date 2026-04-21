@@ -787,7 +787,7 @@ msgstr "Prêmios"
 #: CTFd/themes/core-beta/templates/teams/public.html:153
 #: CTFd/themes/core-beta/templates/users/private.html:120
 msgid "Solves"
-msgstr "Resolve"
+msgstr "Resoluções"
 
 #: CTFd/themes/core-beta/templates/teams/private.html:389
 #: CTFd/themes/core-beta/templates/teams/public.html:158
@@ -908,4 +908,28 @@ msgstr "Tem certeza que deseja abrir esta dica?"
 #: CTFd/themes/pixo/templates/challenges.html
 msgid "Error"
 msgstr "Erro"
+
+#: CTFd/themes/pixo/templates/challenges.html
+msgid "Correct"
+msgstr "Correto"
+
+#: CTFd/themes/pixo/templates/challenges.html
+msgid "Incorrect"
+msgstr "Incorreto"
+
+#: CTFd/themes/pixo/templates/challenges.html
+msgid "but you already solved this"
+msgstr "mas você já resolveu este desafio"
+
+#: CTFd/themes/pixo/templates/challenges.html
+msgid "You're submitting flags too fast. Try again in"
+msgstr "Você está enviando flags muito rápido. Tente novamente em"
+
+#: CTFd/themes/pixo/templates/challenges.html
+msgid "seconds"
+msgstr "segundos"
+
+#: CTFd/themes/pixo/templates/challenges.html
+msgid "is paused"
+msgstr "está pausado"
 
