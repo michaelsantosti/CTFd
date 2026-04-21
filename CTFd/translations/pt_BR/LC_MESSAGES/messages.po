@@ -881,3 +881,31 @@ msgstr "Escreva uma avaliação (opcional)"
 msgid "Thank you for your rating!"
 msgstr "Obrigado pela sua avaliação!"
 
+#: CTFd/themes/pixo/templates/challenges.html
+msgid "Challenge Hidden!"
+msgstr "Desafio Oculto!"
+
+#: CTFd/themes/pixo/templates/challenges.html
+msgid "You haven't unlocked this challenge yet!"
+msgstr "Você ainda não desbloqueou este desafio!"
+
+#: CTFd/themes/pixo/templates/challenges.html
+msgid "Got it!"
+msgstr "Entendi!"
+
+#: CTFd/themes/pixo/templates/challenges.html
+msgid "Hint"
+msgstr "Dica"
+
+#: CTFd/themes/pixo/templates/challenges.html
+msgid "Unlock Hint?"
+msgstr "Desbloquear Dica?"
+
+#: CTFd/themes/pixo/templates/challenges.html
+msgid "Are you sure you want to open this hint?"
+msgstr "Tem certeza que deseja abrir esta dica?"
+
+#: CTFd/themes/pixo/templates/challenges.html
+msgid "Error"
+msgstr "Erro"
+
