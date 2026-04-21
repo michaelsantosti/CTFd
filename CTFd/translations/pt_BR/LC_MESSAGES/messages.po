@@ -443,7 +443,7 @@ msgstr "Forneça o endereço de e-mail associado à sua conta abaixo."
 #: CTFd/themes/core-beta/templates/components/navbar.html:52
 #: CTFd/themes/core-beta/templates/scoreboard.html:7
 msgid "Scoreboard"
-msgstr "Painel de controle"
+msgstr "Placar"
 
 #: CTFd/themes/core-beta/templates/scoreboard.html:24
 msgid "All"
@@ -629,7 +629,7 @@ msgstr "Equipes"
 #: CTFd/themes/core-beta/templates/components/navbar.html:72
 #: CTFd/themes/core-beta/templates/components/navbar.html:77
 msgid "Admin Panel"
-msgstr "Painel do administrador"
+msgstr "Painel Admin"
 
 #: CTFd/themes/core-beta/templates/components/navbar.html:99
 #: CTFd/themes/core-beta/templates/components/navbar.html:104
