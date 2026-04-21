@@ -447,7 +447,7 @@ msgstr "Placar"
 
 #: CTFd/themes/core-beta/templates/scoreboard.html:24
 msgid "All"
-msgstr ""
+msgstr "Todos"
 
 #: CTFd/themes/core-beta/templates/scoreboard.html:36
 msgid "Place"
