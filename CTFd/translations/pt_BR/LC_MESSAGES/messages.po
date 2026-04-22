@@ -933,3 +933,47 @@ msgstr "segundos"
 msgid "is paused"
 msgstr "está pausado"
 
+#: CTFd/themes/pixo/templates/components/snackbar.html
+msgid "Email Unconfirmed"
+msgstr "E-mail Não Confirmado"
+
+#: CTFd/themes/pixo/templates/components/snackbar.html
+msgid "To confirm your email address please"
+msgstr "Para confirmar seu endereço de e-mail por favor"
+
+#: CTFd/themes/pixo/templates/components/snackbar.html
+msgid "click here"
+msgstr "clique aqui"
+
+#: CTFd/themes/pixo/templates/confirm.html
+msgid "To send a confirmation email to your email address, please click the button below."
+msgstr "Para enviar um e-mail de confirmação para o seu endereço de e-mail, por favor clique no botão abaixo."
+
+#: CTFd/themes/pixo/templates/config.html
+msgid "Challenge Category Order Custom Function"
+msgstr "Função Customizada de Ordenação de Categorias"
+
+#: CTFd/themes/pixo/templates/config.html
+msgid "Challenge Order Custom Function"
+msgstr "Função Customizada de Ordenação de Desafios"
+
+#: CTFd/themes/pixo/templates/config.html
+msgid "Define a custom compareFn function for Array.sort() used to sort the challenge categories"
+msgstr "Defina uma função compareFn customizada para Array.sort() usada para ordenar as categorias de desafios"
+
+#: CTFd/themes/pixo/templates/config.html
+msgid "Define a custom compareFn function for Array.sort() used to sort the challenges within categories"
+msgstr "Defina uma função compareFn customizada para Array.sort() usada para ordenar os desafios dentro das categorias"
+
+#: CTFd/themes/pixo/templates/config.html
+msgid "Use Built-In Syntax Highlighter"
+msgstr "Usar Destacador de Sintaxe Integrado"
+
+#: CTFd/themes/pixo/templates/config.html
+msgid "The built-in syntax highlighter is lightweight and fast but may not always correctly highlight all languages. You can disable the built-in highlighter in order to use your own."
+msgstr "O destacador de sintaxe integrado é leve e rápido, mas nem sempre destaca corretamente todas as linguagens. Você pode desativá-lo para usar um próprio."
+
+#: CTFd/themes/pixo/templates/errors/401.html
+msgid "401 Unauthorized"
+msgstr "401 Não Autorizado"
+
